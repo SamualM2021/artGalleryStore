@@ -1,5 +1,5 @@
 import Stripe from "stripe";
-import ProductCard from "./ProductCard"
+import ProductCard from "@/components/ProductCard";
 
 async function getStripeProducts() {
   const stripe = Stripe(process.env.STRIPE_SECRET_KEY)
@@ -10,7 +10,7 @@ async function getStripeProducts() {
   return prices
 }
 
-export default async function Home() {
+export default async function HomePage() {
   const products = await getStripeProducts()
   console.log(products)
   return (

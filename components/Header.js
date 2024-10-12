@@ -1,7 +1,7 @@
 "use client"
 import Link from 'next/link'
 import React from 'react'
-import useCart from './(store)/store'
+import useCart from '@/app/(store)/store'
 import Modal from './Modal'
 
 export default function Header() {

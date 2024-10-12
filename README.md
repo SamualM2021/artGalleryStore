@@ -2,8 +2,9 @@
 
 ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&logoWidth=25&style=flat-square)
 ![NextJS](https://img.shields.io/badge/-NextJs-000?logo=next.js&logoColor=757575&logoWidth=25)
-![Zustand](https://github.com/pmndrs/zustand/blob/main/examples/demo/public/logo192.png)
+![Zustand](https://img.shields.io/badge/Zustand-blue)
 ![Stripe](https://img.shields.io/badge/-Stripe-008CDD?logo=stripe&logoColor=white&logoWidth=25)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=blue&logoWidth=25)
 
 A modern full-stack ecommerce NextJs application using Stripe, TailwindCSS, and Zustand
 

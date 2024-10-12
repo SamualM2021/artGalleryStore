@@ -1,7 +1,7 @@
 "use client"
 import React from 'react'
 import { useRouter } from 'next/navigation'
-import useCart from './(store)/store'
+import useCart from '@/app/(store)/store'
 import Image from 'next/image'
 
 export default function ProductCard(props) {

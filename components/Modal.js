@@ -1,7 +1,7 @@
 "use client"
 import React, {useLayoutEffect, useState} from 'react'
 import { createPortal } from 'react-dom'
-import useCart from './(store)/store';
+import useCart from '@/app/(store)/store';
 import { useRouter } from 'next/navigation';
 
 export default function Modal() {
